@@ -1,0 +1,314 @@
+#b{
+    background-color: rgb(8,27,41);
+}
+#navbar{
+    position: relative;
+    position: sticky;
+    background-color: rgb(8,27,41);
+    color: white;
+    height:50px;
+    left:0px;
+    top:0px;
+    z-index: 10;
+    
+}
+#home{
+    position: absolute;
+    left:740px;
+    font-size:20px;
+    color: white;
+    text-decoration: none;
+}
+#home:hover{
+    color: rgb(10, 123, 204);
+    
+}
+#about{
+    position: absolute;
+    left:840px;
+    font-size:20px;
+    color: white;
+    text-decoration: none;
+}
+#about:hover{
+    color: rgb(10, 123, 204);
+    
+}
+#skills{
+    position: absolute;
+    left:940px;
+    font-size:20px;
+    color: white;
+    text-decoration: none;
+} 
+#skills:hover{
+    color: rgb(10, 123, 204);
+}
+#projects{
+    position: absolute;
+    left:1040px;
+    font-size:20px;
+    color: white;
+    text-decoration: none;
+}
+#projects:hover{
+    color: rgb(10, 123, 204);
+}
+#certifications{
+    position: absolute;
+    left:1150px;
+    font-size:20px;
+    color: white;
+    text-decoration: none;
+} 
+#certifications:hover{
+    color: rgb(10, 123, 204);
+}
+#contact{
+    position: absolute;
+    left:1300px;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+#contact:hover{
+    color: rgb(10, 123, 204);
+}
+#content{
+    width: 1000px;
+    color: white;
+    line-height: 1.5;
+    font-size: 20px;
+    text-align: justify;
+}
+#photo{
+    position: relative;
+    left:1100px;
+    top:-450px;
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border-radius: 100%;
+}
+#photo:hover{
+    box-shadow: 0 0 20px 5px rgba(10, 123, 204, 0.8);
+}
+#ph{
+    position: absolute;
+    width: 100px;
+    left: 50px;
+    top: 50px;
+    width: 300px;
+    height: 300px;
+    
+}
+#b{
+            
+    background-color: rgb(8,27,41);
+}
+#h{
+    color: white;
+    font-size: 50px;
+}
+#p{
+    color:rgb(10, 123, 204);
+}
+#personaltable{
+    color: white;
+    font-size: 20px;
+}
+#s{
+    color:white;
+
+}
+#skilltable{
+    color: white;
+}
+#tools{
+    margin-left: 60px;
+
+}
+#tools:hover{
+    transform: scale(1.2);
+
+}
+#sk:hover{
+    transform: scale(1.2);
+
+}
+#nav{
+    background-color:rgb(10, 123, 204) ;
+    color: white;
+    width: 300px;
+    height: 683px;
+    font-size: 20px;
+    position: relative;
+    position: fixed;
+}
+#cc:hover{
+    color: rgb(8,27,41);
+
+}
+#cc2:hover{
+    color: rgb(8,27,41);
+
+}
+#cc3:hover{
+    color: rgb(8,27,41);
+
+}
+#cc4:hover{
+    color: rgb(8,27,41);
+
+}
+#cc5:hover{
+    color: rgb(8,27,41);
+
+}
+#cc6:hover{
+    color: rgb(8,27,41);
+
+}
+#cer{
+    background-color:  rgb(8,27,41);
+    height: 400px;
+    position: relative;
+    left:300px;
+    top:0px;
+    width: 1200px;
+    overflow-x:auto;
+}
+#c1{
+    height: 300px;
+    width: 400px;
+    left: 0px;
+    position: absolute;
+}
+#c1:hover{
+    transform: scale(1.1);
+    
+}
+#c2{
+    height: 300px;
+    width: 400px;
+    left: 420px;
+    position: absolute;
+}
+#c2:hover{
+    transform: scale(1.1);
+}
+#c3{
+    height: 300px;
+    width: 400px;
+    left: 840px;
+    position: absolute;
+}
+#c3:hover{
+    transform: scale(1.1);
+}
+#c4{
+    height: 300px;
+    width: 400px;
+    left: 1260px;
+    position: absolute;
+}
+#c4:hover{
+    transform: scale(1.1);
+}
+#c5{
+    height: 300px;
+    width: 400px;
+    left: 1680px;
+    position: absolute;
+}
+#c6:hover{
+    transform: scale(1.1);
+}
+#c5{
+    height: 300px;
+    width: 400px;
+    left: 1680px;
+    position: absolute;
+}
+#c6:hover{
+    transform: scale(1.1);
+}
+#cer2{
+    background-color: rgb(8,27,41);
+    height: 400px;
+    position: relative;
+    left:300px;
+    top:0px;
+    width: 1200px;
+    overflow-x:auto;
+}
+#cer3{
+    background-color: rgb(8,27,41);
+    height: 400px;
+    position: relative;
+    left:300px;
+    top:0px;
+    width: 1200px;
+    overflow-x:auto;
+}
+#cer4{
+    background-color: rgb(8,27,41);
+    height: 400px;
+    position: relative;
+    left:300px;
+    top:0px;
+    width: 1200px;
+    overflow-x:auto;
+}
+#cer5{
+    background-color: rgb(8,27,41);
+    height: 400px;
+    position: relative;
+    left:300px;
+    top:0px;
+    width: 1200px;
+    overflow-x:auto;
+}
+#cer6{
+    background-color: rgb(8,27,41);
+    height: 400px;
+    position: relative;
+    left:300px;
+    top:-0px;
+    width: 1200px;
+    overflow-x:auto;
+}
+#photo1{
+    position: relative;
+    left:1000px;
+    top:-450px;
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border-radius: 100%;
+}
+#personaltable1{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+#personaltable1:hover{
+    color:rgb(10, 123, 204) ;
+    font-size: 20px;
+
+}
+#photo1:hover{
+    box-shadow: 0 0 20px 5px rgba(10, 123, 204, 0.8);
+}
+#soft{
+    color: white;
+    font-size: 15px;
+    line-height: 3;
+}
+#project1{
+    font-size: 20px;
+    color: white;
+    line-height: 1.5;
+    text-align: justify;
+}
